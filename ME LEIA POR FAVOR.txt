@@ -1,0 +1,6 @@
+Instruções do game:
+
+Movitenção e Pulo: As setas do teclado/Space
+
+Pausar o Game: ESC
+
